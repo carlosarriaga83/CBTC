@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "172203878341",
+    "firebase_url": "https://neon-blue-dark.firebaseio.com",
+    "project_id": "neon-blue-dark",
+    "storage_bucket": "neon-blue-dark.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172203878341:android:006273a2c54071a4",
+        "android_client_info": {
+          "package_name": "com.csform.neonbluedarktheme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172203878341-74a6i70qe0fq8b84osaj9e32ju3src67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8L_oclZJewFkIxvoXnNa6qkj5j8jAtzQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
